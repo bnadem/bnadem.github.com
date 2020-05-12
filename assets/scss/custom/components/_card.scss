@@ -90,32 +90,39 @@
         font-size:1vw;
     }
 }
-@media screen and (min-width: 414px) {
+// @media screen and (min-width: 414px) {
+// .header-title {
+//     // font-size: 1.2rem;
+//     // font-size: 1.2rem;
+//     margin: 0 0 7px 0;
+//     // font-size:1vw;
+//     font-family: initial;
+//     color: $gray-620;
+//     // color: $gray-810;
+// }
+// }
+// @media screen and (max-width: 414px) {
+// .header-title {
+//     // font-size: 0,9rem;
+//     margin: 0 0 7px 0;
+//     font-family: initial;
+//     color: $gray-620;
+//     // color: $gray-810;
+// }
+// }
 .header-title {
-    // font-size: 1.2rem;
-    // font-size: 1.2rem;
+    // font-size: 0,9rem;
     margin: 0 0 7px 0;
-    font-size:1vw;
     font-family: initial;
     color: $gray-620;
     // color: $gray-810;
-}
-}
-@media screen and (max-width: 414px) {
-.header-title {
-    font-size: 0,9rem;
-    margin: 0 0 7px 0;
-    font-family: initial;
-    color: $gray-620;
-    // color: $gray-810;
-}
 }
 @media screen and (min-width: 414px) {
 .sub-header-title {
     margin: 0 0 7px 0;
     font-family: initial;
     color: $gray-610;
-    font-size: 1.2rem;
+    // font-size: 1.2rem;
     // color: $gray-800;
 }
 }
