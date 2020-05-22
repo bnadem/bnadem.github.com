@@ -2504,30 +2504,30 @@ function DashboardComponent_p_table_167_Template(rf, ctx) { if (rf & 1) {
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("rowHover", true)("showCurrentPageReport", true)("rowHover", true)("rowsPerPageOptions", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction0"](10, _c2))("paginator", true)("sortOrder", 0 - 1)("rows", ctx_r1.countRows)("columns", ctx_r1.cols)("value", ctx_r1.countries)("responsive", true);
 } }
-function DashboardComponent_div_173_ng_template_30_img_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 192);
+function DashboardComponent_div_173_ng_template_31_img_3_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 193);
 } if (rf & 2) {
     const country_r54 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("src", "assets/flags/", country_r54.code.toLowerCase(), ".svg", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", country_r54.title);
 } }
-function DashboardComponent_div_173_ng_template_30_ng_template_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 193);
+function DashboardComponent_div_173_ng_template_31_ng_template_4_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 194);
 } if (rf & 2) {
     const country_r54 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", country_r54.title);
 } }
-function DashboardComponent_div_173_ng_template_30_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 185);
+function DashboardComponent_div_173_ng_template_31_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 186);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "a");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 186);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, DashboardComponent_div_173_ng_template_30_img_3_Template, 1, 2, "img", 187);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, DashboardComponent_div_173_ng_template_30_ng_template_4_Template, 1, 1, "ng-template", null, 164, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplateRefExtractor"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 187);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, DashboardComponent_div_173_ng_template_31_img_3_Template, 1, 2, "img", 188);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, DashboardComponent_div_173_ng_template_31_ng_template_4_Template, 1, 1, "ng-template", null, 164, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplateRefExtractor"]);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 188);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](6, "div", 189);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](7);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](8, "p", 189);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](8, "p", 190);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](9, "span", 132);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](10);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2536,10 +2536,10 @@ function DashboardComponent_div_173_ng_template_30_Template(rf, ctx) { if (rf & 
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](13);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](14, "p", 190);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](14, "p", 191);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](15);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](16, "p", 191);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](16, "p", 192);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](17);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2565,63 +2565,65 @@ function DashboardComponent_div_173_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 169);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "p-virtualScroller", 170, 171);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "p-header");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](4, "div", 172);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "Today's Statistics");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](4, "div", 70);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "h4", 172);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "Affected Countries ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 173);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](8, "p");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](9, "Today's Statistics");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "h4", 81);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](8, "Affected Countries ");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](9, "div", 173);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](10, "div", 174);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "input", 175, 176);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("keyup", function DashboardComponent_div_173_Template_input_keyup_11_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r62); const _r51 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](12); const ctx_r61 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r61.searchCountries(_r51.value); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "div", 175);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "input", 176, 177);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("keyup", function DashboardComponent_div_173_Template_input_keyup_12_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r62); const _r51 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](13); const ctx_r61 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r61.searchCountries(_r51.value); });
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](13, "div", 177);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](14, "select", 72, 178);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("change", function DashboardComponent_div_173_Template_select_change_14_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r62); const _r52 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](15); const _r51 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](12); const ctx_r63 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r63.sortCountries(_r52.value, _r51.value); });
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](16, "option", 74);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](17, "Sort By");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](14, "div", 178);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](15, "select", 72, 179);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("change", function DashboardComponent_div_173_Template_select_change_15_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r62); const _r52 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](16); const _r51 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵreference"](13); const ctx_r63 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r63.sortCountries(_r52.value, _r51.value); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](17, "option", 74);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](18, "Sort By");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](18, "option", 179);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](19, "Total Cases");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](19, "option", 180);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](20, "Total Cases");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](20, "option", 180);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](21, "Today Cases");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](21, "option", 181);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](22, "Today Cases");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](22, "option", 181);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](23, "Total Deaths");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](23, "option", 182);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](24, "Total Deaths");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](24, "option", 182);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](25, "Today Deaths");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](25, "option", 183);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](26, "Today Deaths");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](26, "option", 183);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](27, "Total Recoveries");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](27, "option", 184);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](28, "Total Recoveries");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](28, "div", 36);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](29, "i", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](30, DashboardComponent_div_173_ng_template_30_Template, 18, 7, "ng-template", 184);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](29, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](30, "i", 37);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](31, DashboardComponent_div_173_ng_template_31_Template, 18, 7, "ng-template", 185);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("value", ctx_r2.countries);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](11);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate1"]("placeholder", "Search ", ctx_r2.countries.length, " Affected Countries");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](17);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵclassProp"]("d-none", !ctx_r2.isLoadingCountries);
 } }
 function DashboardComponent_div_179_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 198);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "span", 199);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 199);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "span", 200);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -2632,7 +2634,7 @@ function DashboardComponent_div_179_ng_template_2_Template(rf, ctx) { if (rf & 1
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](item_r66.label);
 } }
 function DashboardComponent_div_179_ng_template_3_img_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 203);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](0, "img", 204);
 } if (rf & 2) {
     const car_r67 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]().$implicit;
     const ctx_r68 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2640,9 +2642,9 @@ function DashboardComponent_div_179_ng_template_3_img_1_Template(rf, ctx) { if (
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpropertyInterpolate"]("alt", car_r67.title);
 } }
 function DashboardComponent_div_179_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 200);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, DashboardComponent_div_179_ng_template_3_img_1_Template, 1, 2, "img", 201);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 202);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 201);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, DashboardComponent_div_179_ng_template_3_img_1_Template, 1, 2, "img", 202);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 203);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2656,11 +2658,11 @@ function DashboardComponent_div_179_ng_template_3_Template(rf, ctx) { if (rf & 1
 } }
 function DashboardComponent_div_179_Template(rf, ctx) { if (rf & 1) {
     const _r71 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 194);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "p-dropdown", 195);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 195);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "p-dropdown", 196);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("ngModelChange", function DashboardComponent_div_179_Template_p_dropdown_ngModelChange_1_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r71); const ctx_r70 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r70.ChangeCountry($event); })("ngModelChange", function DashboardComponent_div_179_Template_p_dropdown_ngModelChange_1_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵrestoreView"](_r71); const ctx_r72 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](); return ctx_r72.selectedCountry = $event; });
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, DashboardComponent_div_179_ng_template_2_Template, 3, 2, "ng-template", 196);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, DashboardComponent_div_179_ng_template_3_Template, 4, 3, "ng-template", 197);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, DashboardComponent_div_179_ng_template_2_Template, 3, 2, "ng-template", 197);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, DashboardComponent_div_179_ng_template_3_Template, 4, 3, "ng-template", 198);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -2669,7 +2671,7 @@ function DashboardComponent_div_179_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("options", ctx_r3.countries)("filter", true)("ngModel", ctx_r3.selectedCountry);
 } }
 function DashboardComponent_h2_281_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "h2", 204);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "h2", 205);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -3876,7 +3878,7 @@ DashboardComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵloadQuery"]()) && (ctx.autoShownModal = _t.first);
     } }, hostBindings: function DashboardComponent_HostBindings(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("resize", function DashboardComponent_resize_HostBindingHandler($event) { return ctx.onResize($event); }, false, _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵresolveWindow"]);
-    } }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_12__["MessageService"]])], decls: 307, vars: 130, consts: [[1, "container-fluid", "ml-0", "pt-2"], [1, "row-fluid"], [1, "row", "min-vh-100", "flex-column", "flex-md-row"], [1, "col-12", "col-md-3", "col-xl-2", "p-0", "bg-dark", "flex-shrink-1", "sidebar-offcanvas"], ["id", "sidebar", 1, "navbar", "navbar-expand-md", "navbar-dark", "bg-dark", "flex-md-column", "flex-row", "align-items-center", "text-center", "sidebar-offcanvas"], ["src", "https://avatars3.githubusercontent.com/u/18377721?s=460&v=4", "width", "250px", 1, "rounded-circle", "my-4", "d-none", "d-md-block", "p-1", "shadow"], [1, "text-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#nav", "aria-controls", "nav", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler", "border-0", "order-1"], [1, "navbar-toggler-icon"], ["id", "nav", 1, "collapse", "navbar-collapse", "order-last"], [1, "navbar-nav", "flex-column", "w-100", "justify-content-center", "link"], [1, "nav-item"], ["href", "#education", "data-target", "#education", 1, "nav-link"], ["href", "#experience", 1, "nav-link"], ["href", "#skills", 1, "nav-link"], ["href", "#examples", 1, "nav-link"], ["href", "#contact", 1, "nav-link", "active"], [1, "nav", "justify-content-center"], ["href", "#", 1, "nav-link", "text-white", "px-2"], [1, "fab", "fa-twitter", "fa-lg"], [1, "fab", "fa-instagram", "fa-lg"], [1, "fa", "fa-envelope", "fa-lg"], [1, "fab", "fa-linkedin", "fa-lg"], [1, "col", "ml-2", "px-0", "pt-3", "flex-grow-1"], ["bsModal", "", "class", "modal fade d-block", "tabindex", "-1", "role", "dialog", "aria-labelledby", "dialog-auto-name", 3, "config", "onHidden", 4, "ngIf"], ["clss", " row mt-0 pt-0"], [1, "row", "pt-4"], [1, "col"], [1, "card-box"], [1, "row"], [1, "h2", "col", "text-center", "mb-2", "pb-2"], [1, "sub-header-title"], [1, "row", "mb-2", "pb-2"], [1, "col-xl-3", "col-md-6", "col-6"], [1, "header-title", "m-0", "text-md-left", "text-center"], [1, "topBoxes"], [1, "fa-3x", "text-center"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2"], [1, "topBoxesDetails", "text-md-right", "text-center"], [1, "badge", "badge-blue", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "mdi", "mdi-trending-up"], [1, "text-muted"], [1, "progress", "progress-bar-alt-blue", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-blue", 2, "width", "100%"], [1, "badge", "badge-danger", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-danger", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-danger", 2, "width", "100%"], [1, "badge", "badge-success", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-success", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-success", 2, "width", "100%"], [1, "badge", "badge-warning", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-warning", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-warning", 2, "width", "100%"], [1, "col-xl-4"], [1, "header-title", "m-0", "text-md-center", "text-center", "pb-3"], ["height", "400", "type", "line", 3, "responsive", "data", "options"], [1, "fas", "fa-circle-notch", "fa-spin", "m-3"], ["type", "doughnut", "height", "400px", 3, "data", "options"], ["height", "400px", "type", "horizontalBar", 3, "responsive", "data", "options"], [1, "row", "hideTable"], ["selectionMode", "single", "selectionMode", "single", "currentPageReportTemplate", "Showing {first} to {last} of {totalRecords} entries", 3, "rowHover", "showCurrentPageReport", "rowsPerPageOptions", "paginator", "sortOrder", "rows", "columns", "value", "responsive", "onRowSelect", "onRowUnselect", 4, "ngIf"], [1, "card-box", 2, "background-color", "#021D2F"], ["class", "infectedCountries", 4, "ngIf"], [1, "col-xl-8"], [1, "d-flex", "justify-content-between", "mb-2"], [1, "header-title", "align-vertical", "m-1"], ["class", "m-0 ml-auto", 4, "ngIf"], [2, "background", "linear-gradient(0deg, rgba(25,27,71,1) 0%, rgba(31,74,159,1) 60%, rgba(28,118,233,1) 100%)", 3, "ngStyle"], ["type", "line", 1, "worldmap", 3, "height", "responsive", "data", "options", "onDataSelect"], [1, "card-box", 2, "background-color", "#021D2F", "height", "570px"], [1, "d-flex"], [1, "col-md-2", "col-6", "float-left", "float-md-left"], [1, "custom-select", 3, "change"], ["selectBy", ""], ["selected", "", "disabled", ""], ["value", "total_cases"], ["value", "total_deaths"], ["value", "total_recovered"], ["value", "total_serious_cases"], [1, "ml-auto", "header-title", "mt-0", "mb-3", "mt-md-0"], ["id", "chartdiv", 2, "width", "100%", "height", "500px", "overflow", "hidden"], [1, "header-title", "mb-3"], [1, "inbox-widget"], ["id", "radarChart", 2, "width", "100%", "height", "400px"], [1, "float-md-right", "float-right", "d-md-inline", "d-none"], [1, "custom-control", "custom-checkbox"], ["type", "checkbox", "id", "enableLogarithmicScale", 1, "custom-control-input", 3, "change"], ["enableLogarithmicScale", ""], ["for", "enableLogarithmicScale", 1, "custom-control-label"], [1, "header-title", "mt-0", "mb-3", "mt-md-0"], [1, "table-responsive"], ["id", "lineChart", 2, "width", "100%", "height", "400px", "overflow", "hidden"], [1, "header-title", "mt-0", "mb-3"], ["id", "pieChart", 2, "width", "100%", "height", "300px"], [1, "col-xl-5"], [1, "col-12"], [1, "col-xl-6", "col-md-6"], [1, "card-box", "widget-user"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-blue"], [1, "font-weight-normal", "text-success"], [1, "header-title"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-danger"], [1, "font-weight-normal", "text-danger"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-warning"], [1, "font-weight-normal", "text-warning"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-info"], ["class", "font-weight-normal text-info", 3, "d-none", 4, "ngIf"], [1, "col-xl-3"], [1, "card-box", "text-center"], [1, "h2", "col", "text-center"], [1, "sub-header-title", "fntSize-1"], [1, "header-title", "fntSize-1"], ["target", "_blank", "href", "https://www.facebook.com/sharer/sharer.php?u=https://afarka.com", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-facebook"], ["target", "_blank", "href", "https://twitter.com/intent/tweet?url=afarka.com&hashtags=Covid_19,CoronavirusPandemic,coronastatistics,corona&text=Stay%20Updated%20with%20Live%20Coronavirus%20Tracker", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-twitter"], ["target", "_blank", "href", "https://vk.com/share.php?url=https://afarka.com", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-vk"], ["href", "whatsapp://send?text=Coronavirus live statistics and tracker https://afarka.com", "data-action", "share/whatsapp/share", 1, "btn", "btn-icon", "waves-effect", "btn-blue"], [1, "fab", "fa-whatsapp"], ["href", "https://ko-fi.com/abdelillahfarka", 1, "btn", "btn-", "waves-effect", "btn-danger", "d-block", "mt-1", "mx-auto"], [1, "fas", "fa-coffee"], ["bsModal", "", "tabindex", "-1", "role", "dialog", "aria-labelledby", "dialog-auto-name", 1, "modal", "fade", "d-block", 3, "config", "onHidden"], ["autoShownModal", "bs-modal"], [1, "modal-dialog", "modal-dialog-centered"], [1, "modal-content"], [1, "modal-body", "text-center", "pt-4"], ["class", "modal-step", 4, "ngIf"], ["class", "col-12 text-center", 4, "ngIf"], [1, "modal-step"], ["src", "assets/images/step-1.png", "width", "125"], [1, "text-white", "mt-3"], [1, "text-blue"], [1, "text-white"], [1, "text-danger"], ["src", "assets/images/step-2.png", "width", "125"], ["src", "assets/images/step-3.png", "width", "125"], ["src", "assets/images/step-4.png", "width", "125"], ["src", "assets/images/step-5.png", "width", "125"], [1, "col-12", "text-center"], [1, "btn", "btn-secondary", "waves-effect", "waves-light", "mb-4", 3, "click"], [1, "fa", "fa-arrow-right", "mr-1"], [1, "form-group"], ["type", "checkbox", "id", "forDontShow", 1, "custom-control-input"], ["dontShow", ""], ["for", "forDontShow", 1, "custom-control-label"], [1, "btn", "btn-blue", "waves-effect", "waves-light", "mb-4", 3, "click"], [1, "fas", "fa-times-circle", "mr-1"], ["selectionMode", "single", "selectionMode", "single", "currentPageReportTemplate", "Showing {first} to {last} of {totalRecords} entries", 3, "rowHover", "showCurrentPageReport", "rowsPerPageOptions", "paginator", "sortOrder", "rows", "columns", "value", "responsive", "onRowSelect", "onRowUnselect"], ["tt", ""], ["pTemplate", "caption"], ["pTemplate", "header"], ["pTemplate", "body"], [1, "sub-header-title", "pb-2"], [1, "ui-selectable-row"], ["class", "fntwght-6", 3, "pSortableColumn", 4, "ngFor", "ngForOf"], [1, "fntwght-6", 3, "pSortableColumn"], [3, "field"], [4, "ngFor", "ngForOf"], [1, "ui-column-title", "table-head-color", "col-3"], [3, "ngSwitch"], [4, "ngSwitchCase"], [4, "ngSwitchDefault"], ["class", "infectedCountryFlag", "style", "height: 30px; width: 40px;", 3, "src", "alt", 4, "ngIf", "ngIfElse"], ["unknown", ""], [1, "infectedCountryName", "mt-0", "mb-1", "ml-2"], [1, "infectedCountryFlag", 2, "height", "30px", "width", "40px", 3, "src", "alt"], ["src", "assets/flags/unknown.svg", 2, "width", "40px", "height", "30px", 3, "alt"], [3, "href"], [1, "infectedCountries"], ["scrollHeight", "346px", 3, "value"], ["perfectscrollbar", ""], [1, "float-right"], [1, "form-group", "row"], [1, "col-md-8", "col-8"], ["type", "text", "id", "example-placeholder", 1, "form-control", 3, "placeholder", "keyup"], ["search", ""], [1, "col-md-4", "col-4"], ["sortBy", ""], ["value", "cases"], ["value", "todayCases"], ["value", "deaths"], ["value", "todayDeaths"], ["value", "recovered"], ["class", "infectedCountry", "pTemplate", "item"], [1, "infectedCountry"], [1, "infectedCountryFlag"], ["style", "height: 30px;\n                                                                                                           width: 40px;", 3, "src", "alt", 4, "ngIf", "ngIfElse"], [1, "infectedCountryName", "mt-0", "mb-1", "fntwght-6"], [1, "infectedCountryDetails", "font-weight-bold"], [1, "infectedCountryCases", "text-blue"], [1, "infectedCountryDeaths", "text-danger"], [2, "height", "30px", "width", "40px", 3, "src", "alt"], ["src", "assets/flags/unknown.svg", 3, "alt"], [1, "m-0", "ml-auto"], ["filterBy", "title,value.name", "optionLabel", "title", 3, "options", "filter", "ngModel", "ngModelChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], [2, "width", "16px", "text-align", "left", 3, "src"], [2, "float", "right", "margin-left", "10px"], [1, "ui-helper-clearfix", 2, "position", "relative", "height", "25px"], ["style", "width:24px;position:absolute;top:1px;left:5px", 3, "src", "alt", 4, "ngIf", "ngIfElse"], [2, "font-size", "14px", "float", "right", "margin-top", "4px", "text-align", "right!important"], [2, "width", "24px", "position", "absolute", "top", "1px", "left", "5px", 3, "src", "alt"], [1, "font-weight-normal", "text-info"]], template: function DashboardComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_12__["MessageService"]])], decls: 307, vars: 130, consts: [[1, "container-fluid", "ml-0", "pt-2"], [1, "row-fluid"], [1, "row", "min-vh-100", "flex-column", "flex-md-row"], [1, "col-12", "col-md-3", "col-xl-2", "p-0", "bg-dark", "flex-shrink-1", "sidebar-offcanvas"], ["id", "sidebar", 1, "navbar", "navbar-expand-md", "navbar-dark", "bg-dark", "flex-md-column", "flex-row", "align-items-center", "text-center", "sidebar-offcanvas"], ["src", "https://avatars3.githubusercontent.com/u/18377721?s=460&v=4", "width", "250px", 1, "rounded-circle", "my-4", "d-none", "d-md-block", "p-1", "shadow"], [1, "text-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#nav", "aria-controls", "nav", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler", "border-0", "order-1"], [1, "navbar-toggler-icon"], ["id", "nav", 1, "collapse", "navbar-collapse", "order-last"], [1, "navbar-nav", "flex-column", "w-100", "justify-content-center", "link"], [1, "nav-item"], ["href", "#education", "data-target", "#education", 1, "nav-link"], ["href", "#experience", 1, "nav-link"], ["href", "#skills", 1, "nav-link"], ["href", "#examples", 1, "nav-link"], ["href", "#contact", 1, "nav-link", "active"], [1, "nav", "justify-content-center"], ["href", "#", 1, "nav-link", "text-white", "px-2"], [1, "fab", "fa-twitter", "fa-lg"], [1, "fab", "fa-instagram", "fa-lg"], [1, "fa", "fa-envelope", "fa-lg"], [1, "fab", "fa-linkedin", "fa-lg"], [1, "col", "ml-2", "px-0", "pt-3", "flex-grow-1"], ["bsModal", "", "class", "modal fade d-block", "tabindex", "-1", "role", "dialog", "aria-labelledby", "dialog-auto-name", 3, "config", "onHidden", 4, "ngIf"], ["clss", " row mt-0 pt-0"], [1, "row", "pt-4"], [1, "col"], [1, "card-box", "pt-2"], [1, "row"], [1, "h2", "col", "text-center", "mb-2", "pb-2"], [1, "sub-header-title"], [1, "row", "mb-2", "pb-2"], [1, "col-xl-3", "col-md-6", "col-6"], [1, "header-title", "m-0", "text-md-left", "text-center"], [1, "topBoxes"], [1, "fa-3x", "text-center"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2"], [1, "topBoxesDetails", "text-md-right", "text-center"], [1, "badge", "badge-blue", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "mdi", "mdi-trending-up"], [1, "text-muted"], [1, "progress", "progress-bar-alt-blue", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-blue", 2, "width", "100%"], [1, "badge", "badge-danger", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-danger", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-danger", 2, "width", "100%"], [1, "badge", "badge-success", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-success", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-success", 2, "width", "100%"], [1, "badge", "badge-warning", "badge-pill", "float-md-left", "m-md-3", "mt-2"], [1, "progress", "progress-bar-alt-warning", "progress-sm", "m-0"], ["role", "progressbar", "aria-valuenow", "77", "aria-valuemin", "0", "aria-valuemax", "100", 1, "progress-bar", "bg-warning", 2, "width", "100%"], [1, "col-xl-4"], [1, "header-title", "m-0", "text-md-center", "text-center", "pb-3"], ["height", "400", "type", "line", 3, "responsive", "data", "options"], [1, "fas", "fa-circle-notch", "fa-spin", "m-3"], ["type", "doughnut", "height", "400px", 3, "data", "options"], ["height", "400px", "type", "horizontalBar", 3, "responsive", "data", "options"], [1, "row", "hideTable"], ["selectionMode", "single", "selectionMode", "single", "currentPageReportTemplate", "Showing {first} to {last} of {totalRecords} entries", 3, "rowHover", "showCurrentPageReport", "rowsPerPageOptions", "paginator", "sortOrder", "rows", "columns", "value", "responsive", "onRowSelect", "onRowUnselect", 4, "ngIf"], [1, "card-box", "pt-2", 2, "background-color", "#021D2F"], ["class", "infectedCountries", 4, "ngIf"], [1, "col-xl-8"], [1, "d-flex", "justify-content-between", "mb-2"], [1, "header-title", "align-vertical", "m-1"], ["class", "m-0 ml-auto", 4, "ngIf"], [2, "background", "linear-gradient(0deg, rgba(25,27,71,1) 0%, rgba(31,74,159,1) 60%, rgba(28,118,233,1) 100%)", 3, "ngStyle"], ["type", "line", 1, "worldmap", 3, "height", "responsive", "data", "options", "onDataSelect"], [1, "card-box", "pt-2", 2, "background-color", "#021D2F", "height", "570px"], [1, "d-flex"], [1, "col-md-2", "col-6", "float-left", "float-md-left"], [1, "custom-select", 3, "change"], ["selectBy", ""], ["selected", "", "disabled", ""], ["value", "total_cases"], ["value", "total_deaths"], ["value", "total_recovered"], ["value", "total_serious_cases"], [1, "ml-auto", "header-title", "mt-0", "mb-3", "mt-md-0"], ["id", "chartdiv", 2, "width", "100%", "height", "500px", "overflow", "hidden"], [1, "header-title", "mb-3"], [1, "inbox-widget"], ["id", "radarChart", 2, "width", "100%", "height", "400px"], [1, "float-md-right", "float-right", "d-md-inline", "d-none"], [1, "custom-control", "custom-checkbox"], ["type", "checkbox", "id", "enableLogarithmicScale", 1, "custom-control-input", 3, "change"], ["enableLogarithmicScale", ""], ["for", "enableLogarithmicScale", 1, "custom-control-label"], [1, "header-title", "mt-0", "mb-3", "mt-md-0"], [1, "table-responsive"], ["id", "lineChart", 2, "width", "100%", "height", "400px", "overflow", "hidden"], [1, "header-title", "mt-0", "mb-3"], ["id", "pieChart", 2, "width", "100%", "height", "300px"], [1, "col-xl-5"], [1, "col-12"], [1, "col-xl-6", "col-md-6"], [1, "card-box", "pt-2", "widget-user"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-blue"], [1, "font-weight-normal", "text-success"], [1, "header-title"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-danger"], [1, "font-weight-normal", "text-danger"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-warning"], [1, "font-weight-normal", "text-warning"], [1, "fas", "fa-circle-notch", "fa-spin", "m-2", "text-info"], ["class", "font-weight-normal text-info", 3, "d-none", 4, "ngIf"], [1, "col-xl-3"], [1, "card-box", "pt-2", "text-center"], [1, "h2", "col", "text-center"], [1, "sub-header-title", "fntSize-1"], [1, "header-title", "fntSize-1"], ["target", "_blank", "href", "https://www.facebook.com/sharer/sharer.php?u=https://afarka.com", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-facebook"], ["target", "_blank", "href", "https://twitter.com/intent/tweet?url=afarka.com&hashtags=Covid_19,CoronavirusPandemic,coronastatistics,corona&text=Stay%20Updated%20with%20Live%20Coronavirus%20Tracker", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-twitter"], ["target", "_blank", "href", "https://vk.com/share.php?url=https://afarka.com", 1, "btn", "btn-icon", "waves-effect", "btn-blue", "mr-1"], [1, "fab", "fa-vk"], ["href", "whatsapp://send?text=Coronavirus live statistics and tracker https://afarka.com", "data-action", "share/whatsapp/share", 1, "btn", "btn-icon", "waves-effect", "btn-blue"], [1, "fab", "fa-whatsapp"], ["href", "https://ko-fi.com/abdelillahfarka", 1, "btn", "btn-", "waves-effect", "btn-danger", "d-block", "mt-1", "mx-auto"], [1, "fas", "fa-coffee"], ["bsModal", "", "tabindex", "-1", "role", "dialog", "aria-labelledby", "dialog-auto-name", 1, "modal", "fade", "d-block", 3, "config", "onHidden"], ["autoShownModal", "bs-modal"], [1, "modal-dialog", "modal-dialog-centered"], [1, "modal-content"], [1, "modal-body", "text-center", "pt-4"], ["class", "modal-step", 4, "ngIf"], ["class", "col-12 text-center", 4, "ngIf"], [1, "modal-step"], ["src", "assets/images/step-1.png", "width", "125"], [1, "text-white", "mt-3"], [1, "text-blue"], [1, "text-white"], [1, "text-danger"], ["src", "assets/images/step-2.png", "width", "125"], ["src", "assets/images/step-3.png", "width", "125"], ["src", "assets/images/step-4.png", "width", "125"], ["src", "assets/images/step-5.png", "width", "125"], [1, "col-12", "text-center"], [1, "btn", "btn-secondary", "waves-effect", "waves-light", "mb-4", 3, "click"], [1, "fa", "fa-arrow-right", "mr-1"], [1, "form-group"], ["type", "checkbox", "id", "forDontShow", 1, "custom-control-input"], ["dontShow", ""], ["for", "forDontShow", 1, "custom-control-label"], [1, "btn", "btn-blue", "waves-effect", "waves-light", "mb-4", 3, "click"], [1, "fas", "fa-times-circle", "mr-1"], ["selectionMode", "single", "selectionMode", "single", "currentPageReportTemplate", "Showing {first} to {last} of {totalRecords} entries", 3, "rowHover", "showCurrentPageReport", "rowsPerPageOptions", "paginator", "sortOrder", "rows", "columns", "value", "responsive", "onRowSelect", "onRowUnselect"], ["tt", ""], ["pTemplate", "caption"], ["pTemplate", "header"], ["pTemplate", "body"], [1, "sub-header-title", "pb-1"], [1, "ui-selectable-row"], ["class", "fntwght-6", 3, "pSortableColumn", 4, "ngFor", "ngForOf"], [1, "fntwght-6", 3, "pSortableColumn"], [3, "field"], [4, "ngFor", "ngForOf"], [1, "ui-column-title", "table-head-color", "col-3"], [3, "ngSwitch"], [4, "ngSwitchCase"], [4, "ngSwitchDefault"], ["class", "infectedCountryFlag", "style", "height: 30px; width: 40px;", 3, "src", "alt", 4, "ngIf", "ngIfElse"], ["unknown", ""], [1, "infectedCountryName", "mt-0", "mb-1", "ml-2"], [1, "infectedCountryFlag", 2, "height", "30px", "width", "40px", 3, "src", "alt"], ["src", "assets/flags/unknown.svg", 2, "width", "40px", "height", "30px", 3, "alt"], [3, "href"], [1, "infectedCountries"], ["scrollHeight", "346px", 3, "value"], ["perfectscrollbar", ""], [1, "header-title", "mb-2"], [1, "ml-auto"], [1, "form-group", "row"], [1, "col-md-8", "col-8"], ["type", "text", "id", "example-placeholder", 1, "form-control", 3, "placeholder", "keyup"], ["search", ""], [1, "col-md-4", "col-4"], ["sortBy", ""], ["value", "cases"], ["value", "todayCases"], ["value", "deaths"], ["value", "todayDeaths"], ["value", "recovered"], ["class", "infectedCountry", "pTemplate", "item"], [1, "infectedCountry"], [1, "infectedCountryFlag"], ["style", "height: 30px;\n                                                                                                           width: 40px;", 3, "src", "alt", 4, "ngIf", "ngIfElse"], [1, "infectedCountryName", "mt-0", "mb-1", "fntwght-6"], [1, "infectedCountryDetails", "font-weight-bold"], [1, "infectedCountryCases", "text-blue"], [1, "infectedCountryDeaths", "text-danger"], [2, "height", "30px", "width", "40px", 3, "src", "alt"], ["src", "assets/flags/unknown.svg", 3, "alt"], [1, "m-0", "ml-auto"], ["filterBy", "title,value.name", "optionLabel", "title", 3, "options", "filter", "ngModel", "ngModelChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], [2, "width", "16px", "text-align", "left", 3, "src"], [2, "float", "right", "margin-left", "10px"], [1, "ui-helper-clearfix", 2, "position", "relative", "height", "25px"], ["style", "width:24px;position:absolute;top:1px;left:5px", 3, "src", "alt", 4, "ngIf", "ngIfElse"], [2, "font-size", "14px", "float", "right", "margin-top", "4px", "text-align", "right!important"], [2, "width", "24px", "position", "absolute", "top", "1px", "left", "5px", 3, "src", "alt"], [1, "font-weight-normal", "text-info"]], template: function DashboardComponent_Template(rf, ctx) { if (rf & 1) {
         const _r73 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵgetCurrentView"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
@@ -4154,7 +4156,7 @@ DashboardComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](171, "div", 36);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](172, "i", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](173, DashboardComponent_div_173_Template, 31, 4, "div", 62);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](173, DashboardComponent_div_173_Template, 32, 4, "div", 62);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](174, "div", 63);
