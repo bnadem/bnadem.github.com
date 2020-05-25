@@ -75,6 +75,9 @@ MIT
 @angular/service-worker
 MIT
 
+angular-highcharts
+MIT
+
 canvg
 MIT
 Copyright (c) 2010-2011 Gabe Lerner (gabelerner@gmail.com) - http://code.google.com/p/canvg/
@@ -503,6 +506,9 @@ Apache-2.0
    See the License for the specific language governing permissions and
    limitations under the License.
 
+
+highcharts
+https://www.highcharts.com/license
 
 moment
 MIT
